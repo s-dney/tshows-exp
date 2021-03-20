@@ -2,7 +2,7 @@ let target = document.getElementById('placeholder');
 
 target.style.color = "lightblue"
 
-fetch("/info.json")
+fetch("https://s-dney.github.io/tshows-exp/info.json")
 .then(response => response.json()) // parse the JSON from the server
   .then(json => {
     var schoolsList = json.schools;
