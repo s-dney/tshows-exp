@@ -1,0 +1,612 @@
+var info = {"schools": [
+
+  {
+    "school_name": "Boston College / Art, Art History & Film",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May-ish",
+    "social_handle": "@bostoncollege",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "California Baptist University - Photography",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "March/April 2021",
+    "social_handle": "@cbuphotography",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Centennial College / Fine Arts Studio",
+    "urls": {"bfa": "https://seesaw2021.crd.co/", "mfa": ""},
+    "launch_date": "March 18 2021",
+    "social_handle": "",
+    "country": "Canada"
+    
+
+  },
+  {
+    "school_name": "Columbia College Chicago/ Art & Art History",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 13",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "County College of Morris",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "04/30/21",
+    "social_handle": "@ccm_nj",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "CUNY Hunter - MFA",
+    "urls": {"bfa": "", "mfa": "http://www.huntermfastudio.org/mfa-thesis-exhibitions"},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "CUNY College of Staten Island",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 3",
+    "social_handle": "@cunyarts",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "East Carolina University School of Art and Design",
+    "urls": {"bfa": "", "mfa": "https://art.ecu.edu/2021-juried-exhibition/"},
+    "launch_date": "5 March 2021,March 6",
+    "social_handle": "@ecumfa, @ecusoad",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Edinboro University / Graphic & Interactive Design",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "April 2020",
+    "social_handle": "@edinborou",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Eskenazi School of Art, Architecture + Design, Indiana University",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 5, 2021",
+    "social_handle": "https://www.facebook.com/grunwaldgallery/",
+    "country": "USA"
+    
+  },
+  {
+    "school_name": "Fashion Institute of Technology, SUNY",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 5th",
+    "social_handle": "@fit_artdesign",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Grace College",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+  },
+  {
+    "school_name": "GSU Welch School of Art & Design Photography Program",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "end of April 2021",
+    "social_handle": "@gsu_artdesign",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Indiana State University",
+    "urls": {"bfa": "https://www.indstate.edu/cas/uag/university-art-gallery/current-exhibit/fall-2020-senior-exhibition", "mfa": ""},
+    "launch_date": "live now",
+    "social_handle": "@indianastateuniversity",
+    "country": "USA"
+
+    
+  },
+  {
+    "school_name": "Institute of Art and Design @New England College (BFA- Photography)",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "Spring semester 2021",
+    "social_handle": "@iad.nec",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Lamar Dodd School of Art at University of Georgia",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "April 12 2021",
+    "social_handle": "@doddgrads on instagram",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Marymount Manhattan College",
+    "urls": {"bfa": "https://www.mmm.edu/live/files/3076-senior-thesis-catalog-spring-2021", "mfa": ""},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "MassArt",
+    "urls": {"bfa": "https://massart.edu/exhibitions/galleries/2021-illustration-thesis-show", "mfa": ""},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "MFA in Studio Arts at University of North Carolina at Chapel Hill",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 2021",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "MICA / Maryland Institute College of Art",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "est- May 15, 2021",
+    "social_handle": "@marylandinstitutecollegeofart, @community_arts_mfa",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Muhlenberg College",
+    "urls": {"bfa": "http://studioartthesisexhibitions.bergbuilds.domains/", "mfa": ""},
+    "launch_date": "already launched (2nd semester will be added May 15th)",
+    "social_handle": "@muhlenbergart",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "New Mexico State University",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Northern Michigan University School of Art & Design",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "April 26, 2021 (for virtual exhibition)",
+    "social_handle": "@nmuart",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "New York University",
+    "urls": {"bfa": "https://tisch.nyu.edu/photo/events/show-one-2021", "mfa": ""},
+    "launch_date": "BFA live",
+    "social_handle": "@nyuart, @nyuifa, @nyuartsandscience, @nyutisch",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Otis College of Art and Design",
+    "urls": {"bfa": "", "mfa": "https://www.otis.edu/mfa-fine-arts-thesis-exhibitions/2021"},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Pacific Northwest College of Art/ Low Residency MFA in Visual Studies",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "July 23 - September 3",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Portland State University / Art and Social Practice MFA",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "MAY/June 2021",
+    "social_handle": "@psuartanddesign",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Pratt Institute",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Rochester Institute of Technology, MFA Photography & Related Media",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "April 2 (approx)",
+    "social_handle": "@rit_artdesign",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Rollins College / B.A. Studio Art",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "April 15, 2021",
+    "social_handle": "@rollinscollege",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "San Francisco Art Institute",
+    "urls": {"bfa": "https://sfai.edu/eightpercent/", "mfa": ""},
+    "launch_date": "Fall 2020",
+    "social_handle": "@sfaiofficial",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "San Francisco State University School of Design",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 10, 2021",
+    "social_handle": "instagram: sfsudesignspace",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Sarah Lawrence College",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "Start mid-April",
+    "social_handle": "@slcvasa, @sarahlawrencecollege",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "School of Art & Design New York State College of Ceramics at Alfred University",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 21 TBD",
+    "social_handle": "@arts_at_alfred",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "School of Design",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "April 1, 2021",
+    "social_handle": "@sod_yes",
+    "country": "Canada"
+    
+    
+  },
+  {
+    "school_name": "Sheridan College Honours Bachelor of Photography",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 1st 2021",
+    "social_handle": "@sheridan_college",
+    "country": "Canada"
+    
+    
+  },
+  {
+    "school_name": "State University of New York at New Paltz (SUNY New Paltz)",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "April 15 2021",
+    "social_handle": "@newpaltzphotography",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "School of Visual Arts BFA Photography & Video, School of Visual Arts MFA Fine Arts",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 3, 2021",
+    "social_handle": "@svabfaphotovideo, @svamfafinearts",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Texas State University",
+    "urls": {"bfa": "https://bfa2020fall.wp.txstate.edu/", "mfa": ""},
+    "launch_date": "November 30",
+    "social_handle": "@txst_artanddesign",
+    "country": "USA"
+    
+  },
+  {
+    "school_name": "The College of Saint Rose -- Center for Art & Design",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 1, 2021",
+    "social_handle": "@collegeofsaintrose",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "The Ohio State University - Visual Art MFA",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "February 23rd",
+    "social_handle": "@ascatosu",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "The University of Texas at Austin",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 1, 2021",
+    "social_handle": "@fineartsut",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "The.DPP @ Austin Community College",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 13th, 2021",
+    "social_handle": "instagram.com/the.dpp",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Trinity College",
+    "urls": {"bfa": "https://dsp.domains.trincoll.edu/studio-arts-thesis-exhibition/students/", "mfa": ""},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "UCLA / Department of Art - Undergraduate Senior Show",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "June 10",
+    "social_handle": "@ula_art (Instagram)",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "UMass Dartmouth College of Visual & Performing Arts",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "April",
+    "social_handle": "@umassdcvpa",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "UNC Chapel Hill / BFA",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 2021",
+    "social_handle": "@unc_aah",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "University of Connecticut, University of Connecticut MFA Studio Art",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 2021",
+    "social_handle": "@paulmichaelartist, @uconnsfa, @uconnmfainstudiort",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "University of Illinois at Urbana-Champaign",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "Apr 3 MFA May 8 BFA",
+    "social_handle": "@illinois_artanddesign, @art_mfa_illinois",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "University of Kansas / Photography",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "05/01/2020 ?",
+    "social_handle": "@arcd_ku",
+    "country": "USA"
+    
+  },
+  {
+    "school_name": "University of Lethbridge, MFA",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May or June 2021",
+    "social_handle": "@ambervisualartist (IG)",
+    "country": "Canada",
+    
+    
+  },
+  {
+    "school_name": "University of Massachusetts Dartmouth",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 6, 2021",
+    "social_handle": "@umassd",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "University of Massachusetts Lowell",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 10, 2020",
+    "social_handle": "@uml_artdesign",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "University of Michigan",
+    "urls": {"bfa": "", "mfa": "https://stamps.umich.edu/exhibitions/detail/2021_mfa_thesis_exhibition"},
+    "launch_date": "MFA March 12 BFA April 26",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "University of Minnesota",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Vassar College",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 15",
+    "social_handle": "@vassarcollege",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Wellesley College",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "May 26th (aprox)",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Western University / Department of Visual Arts",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "June 2021",
+    "social_handle": "@westernuvisarts",
+    "country": "Canada"
+    
+    
+  },
+  {
+    "school_name": "Yale School of Art BA",
+    "urls": {"bfa": "http://painting.yaleschoolofart.org/2021/", "mfa": ""},
+    "launch_date": "April 25, 2021",
+    "social_handle": "@yaleschoolofart",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "CUNY Hunter College",
+    "urls": {"bfa": "", "mfa": "http://www.huntermfastudio.org/mfa-thesis-exhibitions"},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Washington University St. Louis",
+    "urls": {"bfa": "", "mfa": "https://www.kemperartmuseum.wustl.edu/exhibitions/MFA21"},
+    "launch_date": "May 7",
+    "social_handle": "",
+    "country": "USA"
+    
+  },
+  {
+    "school_name": "Washington State MFA",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "April 6",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Pratt",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "April 19",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "University of Louisville",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "April 15",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "University of Indiana Bloomington - Fall MFA",
+    "urls": {"bfa": "https://soaad.indiana.edu/exhibitions/grunwald-gallery/online-exhibitions/mfa-bfa-thesis/index.html", "mfa": ""},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Pomona",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "",
+    "social_handle": "",
+    "country": "USA"
+    
+    
+  },
+  {
+    "school_name": "Algonquin",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "",
+    "social_handle": "",
+    "country": ""
+    
+    
+  },
+  {
+    "school_name": "New York Studio School",
+    "urls": {"bfa": "", "mfa": ""},
+    "launch_date": "",
+    "social_handle": "",
+    "country": ""
+    
+    
+  }
+
+
+]}
